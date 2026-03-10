@@ -3,6 +3,9 @@
 This is my personal developer portfolio website built using HTML and CSS.  
 It showcases my skills, projects, and contact information.
 
+## Portfolio Preview
+![Portfolio Screenshot](portfolio-preview.png)
+
 ## 🌐 Live Website
 https://gorlisuryateja.github.io/suryateja-portfolio/
 
